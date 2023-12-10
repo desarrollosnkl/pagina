@@ -1,0 +1,8 @@
+body {
+
+    background-image: linear-gradient(to top, hsla(180, 63%, 50%, 0.266) 0%, hsla(267, 86%, 22%, 0.266) 100%), url('../img/programacion.avif');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+     background-size: cover;
+}
